@@ -15,4 +15,4 @@ built on top of the Python programming language.
 This can help small retail shops to easily generate customer invoice by running the code.
 Saves time as it is easy to implement
 
-#The sample invoice is uploaded in the repository.
+# The sample invoice is uploaded in the repository. The file generated is pdf but the repository contains JPEG image of the invoice.
